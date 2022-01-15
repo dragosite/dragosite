@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dragos Micu, found of WPHarvest
+- 👋 Hi, I’m Dragos Micu, founder of WPHarvest
 - 👀 I’m most interested in building WordPress and WooCommerce extensions
 - 🌱 I’m currently deep diving into the WordPress and WooCommerce core and Headless WordPress
 - 💞️ I’m looking to collaborate on WordPress and WooCommerce extensions, would you have an interesting project
